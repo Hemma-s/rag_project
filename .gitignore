@@ -1,0 +1,8 @@
+venv/
+qdrant_db/
+qdrant_db_backup/
+audit.db
+__pycache__/
+.pytest_cache/
+.env
+/data/
