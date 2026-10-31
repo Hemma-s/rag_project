@@ -6,8 +6,7 @@ A document Q&A service (FastAPI, Qdrant, JWT) where **retrieval respects who is 
 
 **48 of 48 adversarial queries leaked in the unprotected baseline. With the ACL layer: 0 of 48.** 46 automated tests run in GitHub Actions on every push.
 
-[Watch the 2-minute demo](docs/demo.mp4) | [Test runs](https://github.com/Hemma-s/rag_project/actions)
-
+[Watch the 2-minute demo](https://github.com/user-attachments/assets/c32a2eaa-f849-4b12-ad75-fa2f80d828ad) | [Test runs](https://github.com/Hemma-s/rag_project/actions)
 ## Architecture
 
 ```mermaid
